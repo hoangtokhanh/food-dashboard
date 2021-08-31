@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Cơm chiên dương châu",
+      "price": "30.000đ",
+      "class": "Đồ ăn",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "name": "Cơm rang dưa bò",
+      "price": "30.000đ",
+      "class": "Đồ ăn",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "name": "Cơm chiên trứng",
+      "price": "20.000đ",
+      "class": "Đồ ăn",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "name": "Coca cola",
+      "price": "10.000đ",
+      "class": "nước",
+      "note": "Lon"
+    },
+    {
+      "id": 5,
+      "name": "Mì xào hải sản",
+      "price": "30.000đ",
+      "class": "Đồ ăn",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "name": "Nước suối",
+      "price": "5.000đ",
+      "class": "Nước",
+      "note": "Chai"
+    }
+  ]
+}
